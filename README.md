@@ -1,2 +1,3 @@
 # odin-recipes
 The Odin Project recipes project
+This is the html foundations project from The Odin Project. In this project, I will demonstrate all the html basics I learned in the htmml foundations course. The following are skills that I learned; the definition of html elements and tags, html boilerplate creation, working with text and creating paragraphs, creating ordered and unordered lists, how to embed links and images into your html, and how to commit and create commit messages for git.
